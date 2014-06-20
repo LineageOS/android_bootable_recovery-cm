@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "ba0121b8_2e0cd893",
+        "filename": "recovery.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 1269,
+      "author": {
+        "id": 5503
+      },
+      "writtenOn": "2014-06-20T09:03:51Z",
+      "side": 1,
+      "message": "Note the second \"stage\" argument is incorrect and elicits this compiler warning: \"too many arguments for format\".  This error is also in the AOSP commit and it\u0027s harmless in practice.  But we should probably fix.",
+      "revId": "5952cec98bd21ba5b833872c9e8f7cc4dad371f3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "ba0121b8_4e3cac2f",
         "filename": "updater/install.c",
         "patchSetId": 2
