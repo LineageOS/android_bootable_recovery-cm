@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba0121b8_4e230c06",
+        "filename": "updater/install.c",
+        "patchSetId": 3
+      },
+      "lineNbr": 1473,
+      "author": {
+        "id": 116
+      },
+      "writtenOn": "2014-06-20T09:15:37Z",
+      "side": 1,
+      "message": "let me know if this is okay; it is needed on older recoveries (like the one published for toro). I tested it on toro and it works with this change.",
+      "revId": "57bda549029010e765388d193e483da72aaafb60",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
