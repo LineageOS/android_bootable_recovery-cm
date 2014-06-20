@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba0121b8_4e3cac2f",
+        "filename": "updater/install.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 1468,
+      "author": {
+        "id": 116
+      },
+      "writtenOn": "2014-06-20T08:36:55Z",
+      "side": 1,
+      "message": "I actually need to update this to account for older recoveries that may not support this method of rebooting.",
+      "revId": "5952cec98bd21ba5b833872c9e8f7cc4dad371f3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
