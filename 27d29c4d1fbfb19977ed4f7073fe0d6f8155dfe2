@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba0121b8_54e26f04",
+        "filename": "ui.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 140,
+      "author": {
+        "id": 5531
+      },
+      "writtenOn": "2014-06-26T14:16:52Z",
+      "side": 1,
+      "message": "evcodestr \u003d \"ABS_MT_ORIENTATION\";",
+      "revId": "27d29c4d1fbfb19977ed4f7073fe0d6f8155dfe2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba0121b8_b4f94bcb",
+        "filename": "ui.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 432,
+      "author": {
+        "id": 5531
+      },
+      "writtenOn": "2014-06-26T14:16:52Z",
+      "side": 1,
+      "message": "you\u0027re already in: if (dev-\u003ein_touch)",
+      "revId": "27d29c4d1fbfb19977ed4f7073fe0d6f8155dfe2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba0121b8_94f6c7d5",
+        "filename": "ui.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 443,
+      "author": {
+        "id": 5531
+      },
+      "writtenOn": "2014-06-26T14:16:52Z",
+      "side": 1,
+      "message": "you\u0027re already in: if (dev-\u003ein_touch)",
+      "revId": "27d29c4d1fbfb19977ed4f7073fe0d6f8155dfe2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
