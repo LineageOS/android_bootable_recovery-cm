@@ -2,6 +2,40 @@
   "comments": [
     {
       "key": {
+        "uuid": "ba0121b8_b495cb41",
+        "filename": "minui/graphics.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 232,
+      "author": {
+        "id": 10094
+      },
+      "writtenOn": "2014-06-27T06:13:28Z",
+      "side": 1,
+      "message": "This could use an array size macro in case new fonts are added.",
+      "revId": "27d29c4d1fbfb19977ed4f7073fe0d6f8155dfe2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba0121b8_94924756",
+        "filename": "minui/graphics.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 314,
+      "author": {
+        "id": 10094
+      },
+      "writtenOn": "2014-06-27T06:13:28Z",
+      "side": 1,
+      "message": "Same thing here.  a table of font definitions would limit the addition of a font to a single line change.",
+      "revId": "27d29c4d1fbfb19977ed4f7073fe0d6f8155dfe2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "ba0121b8_54e26f04",
         "filename": "ui.cpp",
         "patchSetId": 4
