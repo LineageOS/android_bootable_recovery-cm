@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba0121b8_ce238304",
+        "filename": "recovery.cpp",
+        "patchSetId": 5
+      },
+      "lineNbr": 1058,
+      "author": {
+        "id": 10094
+      },
+      "writtenOn": "2014-07-02T10:47:21Z",
+      "side": 1,
+      "message": "The dialog should also be shown when wiping media and cache",
+      "revId": "87c65fb65f936098488ad6ab78d00d7bdb4f089d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
