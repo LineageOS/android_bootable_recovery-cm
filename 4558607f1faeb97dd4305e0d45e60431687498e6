@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba0121b8_b15e6b43",
+        "filename": "recovery.cpp",
+        "patchSetId": 3
+      },
+      "lineNbr": 973,
+      "author": {
+        "id": 6051
+      },
+      "writtenOn": "2014-07-05T11:29:52Z",
+      "side": 1,
+      "message": "could be a separate patch here to not error if user cancels sideload\n\nThe actual commit preserves the current erroring gui if cancelled from menu",
+      "revId": "4558607f1faeb97dd4305e0d45e60431687498e6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
