@@ -16,6 +16,24 @@
       "revId": "172f2226869c654e893424f836aacec078eb5388",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a061dce_014f1793",
+        "filename": "updater/install.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 1526,
+      "author": {
+        "id": 5503
+      },
+      "writtenOn": "2014-08-01T08:05:06Z",
+      "side": 1,
+      "message": "So we have already released zips with that syntax?  I can work around that if so...",
+      "parentUuid": "9a061dce_c17ebfad",
+      "revId": "172f2226869c654e893424f836aacec078eb5388",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
