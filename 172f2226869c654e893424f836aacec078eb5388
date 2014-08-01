@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a061dce_c17ebfad",
+        "filename": "updater/install.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 1526,
+      "author": {
+        "id": 116
+      },
+      "writtenOn": "2014-08-01T08:03:04Z",
+      "side": 1,
+      "message": "Will this cause it to fail if there are 2 arguments? The scripts in releasetools are set up to generate edify scripts similar to: \"get_stage(\"/dev/block/mmcblk0p19\", \"stage\")\" - I\u0027d rather keep compatibility with what those generate and the existing zips that we have created with this, even if the second argument isn\u0027t being used at the moment.",
+      "revId": "172f2226869c654e893424f836aacec078eb5388",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
