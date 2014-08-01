@@ -52,6 +52,24 @@
       "revId": "172f2226869c654e893424f836aacec078eb5388",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a061dce_011d5773",
+        "filename": "updater/install.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 1526,
+      "author": {
+        "id": 5503
+      },
+      "writtenOn": "2014-08-01T08:11:54Z",
+      "side": 1,
+      "message": "The docs above the function indicate that it was only intended to take one arg, so I assumed it was a typo from copy/paste.  I could go either way, doesn\u0027t matter much to me.",
+      "parentUuid": "9a061dce_a15e2b43",
+      "revId": "172f2226869c654e893424f836aacec078eb5388",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
