@@ -16,6 +16,24 @@
       "revId": "05a435346c16f2006b5f31da16da9f4d1225f27b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a061dce_a26d8406",
+        "filename": "recovery.cpp",
+        "patchSetId": 7
+      },
+      "lineNbr": 634,
+      "author": {
+        "id": 5503
+      },
+      "writtenOn": "2014-08-06T10:30:26Z",
+      "side": 1,
+      "message": "sideload is the only use case for CancelWaitKey",
+      "parentUuid": "9a061dce_62636c1b",
+      "revId": "05a435346c16f2006b5f31da16da9f4d1225f27b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
