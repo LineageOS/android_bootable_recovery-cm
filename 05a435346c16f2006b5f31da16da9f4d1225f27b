@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a061dce_62636c1b",
+        "filename": "recovery.cpp",
+        "patchSetId": 7
+      },
+      "lineNbr": 634,
+      "author": {
+        "id": 10094
+      },
+      "writtenOn": "2014-08-06T10:25:43Z",
+      "side": 1,
+      "message": "Does this cause issues with all of the other uses of this function?  Do they expect kGoBack?",
+      "revId": "05a435346c16f2006b5f31da16da9f4d1225f27b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
