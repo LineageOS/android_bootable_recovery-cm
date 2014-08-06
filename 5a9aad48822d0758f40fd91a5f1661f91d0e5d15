@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a061dce_82ede08d",
+        "filename": "adb_install.cpp",
+        "patchSetId": 6
+      },
+      "lineNbr": 132,
+      "author": {
+        "id": 6051
+      },
+      "writtenOn": "2014-08-06T09:31:10Z",
+      "side": 1,
+      "message": "int ret;",
+      "revId": "5a9aad48822d0758f40fd91a5f1661f91d0e5d15",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a061dce_22fdf43a",
+        "filename": "adb_install.cpp",
+        "patchSetId": 6
+      },
+      "lineNbr": 139,
+      "author": {
+        "id": 6051
+      },
+      "writtenOn": "2014-08-06T09:31:10Z",
+      "side": 1,
+      "message": "else is useless here",
+      "revId": "5a9aad48822d0758f40fd91a5f1661f91d0e5d15",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a061dce_c2ffd832",
+        "filename": "adb_install.cpp",
+        "patchSetId": 6
+      },
+      "lineNbr": 142,
+      "author": {
+        "id": 6051
+      },
+      "writtenOn": "2014-08-06T09:31:10Z",
+      "side": 1,
+      "message": "return INSTALL_ERROR;",
+      "revId": "5a9aad48822d0758f40fd91a5f1661f91d0e5d15",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a061dce_02fa7042",
+        "filename": "recovery.cpp",
+        "patchSetId": 6
+      },
+      "lineNbr": 938,
+      "author": {
+        "id": 6051
+      },
+      "writtenOn": "2014-08-06T09:31:10Z",
+      "side": 1,
+      "message": "if (item \u003e 0)\n\nor completely remove int item as it is useless",
+      "revId": "5a9aad48822d0758f40fd91a5f1661f91d0e5d15",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
