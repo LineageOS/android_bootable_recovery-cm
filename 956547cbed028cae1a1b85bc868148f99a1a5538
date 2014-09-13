@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1b2928_316ed02f",
+        "filename": "minui/vsync.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 129,
+      "author": {
+        "id": 10291
+      },
+      "writtenOn": "2014-09-13T04:45:42Z",
+      "side": 1,
+      "message": "This seems like a long timeout for vsync. If vsync_loop fails for any reason, this line will lock the device to 1fps. Maybe set timeout to 20ms? That way in the failure case the device only slows to 50fps and the user maybe sees some screen tearing.",
+      "revId": "956547cbed028cae1a1b85bc868148f99a1a5538",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
