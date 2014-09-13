@@ -16,6 +16,24 @@
       "revId": "956547cbed028cae1a1b85bc868148f99a1a5538",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a1b2928_fc370fe1",
+        "filename": "minui/vsync.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 129,
+      "author": {
+        "id": 32
+      },
+      "writtenOn": "2014-09-13T07:43:17Z",
+      "side": 1,
+      "message": "Yeah that makes sense. If we\u0027re going to skip it, we should keep it close to a normal vsync interval. This obviously should never happen, and I added this code to deal with race conditions during startup.",
+      "parentUuid": "7a1b2928_316ed02f",
+      "revId": "956547cbed028cae1a1b85bc868148f99a1a5538",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
